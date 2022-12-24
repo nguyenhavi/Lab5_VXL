@@ -1,0 +1,10 @@
+17:13:17 **** Incremental Build of configuration Debug for project Lab5_VXL ****
+make -j4 all 
+arm-none-eabi-size   Lab5_VXL.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15680	    124	   1884	  17688	   4518	Lab5_VXL.elf
+Finished building: default.size.stdout
+ 
+
+17:13:19 Build Finished. 0 errors, 0 warnings. (took 2s.290ms)
+
